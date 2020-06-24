@@ -1,0 +1,9 @@
+C:\Users\jedno\Desktop\C#\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\jedno\Desktop\C#\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\jedno\Desktop\C#\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\jedno\Desktop\C#\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\jedno\Desktop\C#\Snake\bin\Debug\Snake.exe.config
+C:\Users\jedno\Desktop\C#\Snake\bin\Debug\Snake.exe
+C:\Users\jedno\Desktop\C#\Snake\bin\Debug\Snake.pdb
+C:\Users\jedno\Desktop\C#\Snake\obj\Debug\Snake.exe
+C:\Users\jedno\Desktop\C#\Snake\obj\Debug\Snake.pdb
