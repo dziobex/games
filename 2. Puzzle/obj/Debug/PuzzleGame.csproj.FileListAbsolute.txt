@@ -1,0 +1,13 @@
+C:\Users\jedno\Desktop\C#\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\jedno\Desktop\C#\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\jedno\Desktop\C#\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.Level2.resources
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.Level3.resources
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.StartWindow.resources
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+C:\Users\jedno\Desktop\C#\PuzzleGame\obj\Debug\PuzzleGame.GameOver.resources
