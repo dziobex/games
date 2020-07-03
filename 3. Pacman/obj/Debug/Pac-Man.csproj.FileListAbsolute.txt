@@ -1,0 +1,10 @@
+C:\Users\jedno\Desktop\C#\Pac-Man\bin\Debug\Pac-Man.exe.config
+C:\Users\jedno\Desktop\C#\Pac-Man\bin\Debug\Pac-Man.exe
+C:\Users\jedno\Desktop\C#\Pac-Man\bin\Debug\Pac-Man.pdb
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac-Man.csprojAssemblyReference.cache
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac_Man.Form1.resources
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac_Man.Properties.Resources.resources
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac-Man.csproj.GenerateResource.cache
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac-Man.exe
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac-Man.pdb
+C:\Users\jedno\Desktop\C#\Pac-Man\obj\Debug\Pac_Man.WelcomeWindow.resources
