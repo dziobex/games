@@ -1,0 +1,9 @@
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\bin\Debug\HitTheMolev2.0.exe.config
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\bin\Debug\HitTheMolev2.0.exe
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\bin\Debug\HitTheMolev2.0.pdb
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\obj\Debug\HitTheMolev2.0.csprojAssemblyReference.cache
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\obj\Debug\HitTheMolev2._0.Form1.resources
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\obj\Debug\HitTheMolev2._0.Properties.Resources.resources
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\obj\Debug\HitTheMolev2.0.csproj.GenerateResource.cache
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\obj\Debug\HitTheMolev2.0.exe
+C:\Users\jedno\Desktop\C#\HitTheMolev2.0\obj\Debug\HitTheMolev2.0.pdb
