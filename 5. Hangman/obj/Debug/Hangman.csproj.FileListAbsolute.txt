@@ -1,0 +1,13 @@
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.Hangmann.resources
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.Information.resources
+C:\Users\jedno\Desktop\c#\Hangman\Hangman\obj\Debug\Hangman.Choosing.resources
